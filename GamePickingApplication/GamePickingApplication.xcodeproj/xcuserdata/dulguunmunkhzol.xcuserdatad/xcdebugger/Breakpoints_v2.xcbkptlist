@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0800D135-3E64-436B-9401-390EDC3BA0DD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF3F3B49-FBCF-4EFA-BA35-ED4DB0E82E21"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GamePickingApplication/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BF3F3B49-FBCF-4EFA-BA35-ED4DB0E82E21 - df2dd142815e07cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GamePickingApplication.ViewController.btnRandom(Any) -&gt; ()"
+                  moduleName = "GamePickingApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dulguunmunkhzol/Desktop/xcodeFiles/GamePickingApplication/GamePickingApplication/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "BF3F3B49-FBCF-4EFA-BA35-ED4DB0E82E21 - f583bcec3fa902c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GamePickingApplication.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; GamePickingApplication.ViewController"
+                  moduleName = "GamePickingApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dulguunmunkhzol/Desktop/xcodeFiles/GamePickingApplication/GamePickingApplication/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "593">
+               </Location>
+               <Location
+                  uuid = "BF3F3B49-FBCF-4EFA-BA35-ED4DB0E82E21 - 9efd0d54c0afe952"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GamePickingApplication.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GamePickingApplication.ViewController&gt;"
+                  moduleName = "GamePickingApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dulguunmunkhzol/Desktop/xcodeFiles/GamePickingApplication/GamePickingApplication/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "550">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
